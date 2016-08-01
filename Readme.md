@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Nikolay Solodukhin](https://up.htmlacademy.ru/htmlcss/14/user/138404).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Захарченко](https://htmlacademy.ru/profile/drewtsure).
 
 ---
 
